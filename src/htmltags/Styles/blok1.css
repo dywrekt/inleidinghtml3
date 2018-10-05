@@ -1,0 +1,20 @@
+body{
+	border: 1em inset yellow;
+}
+
+h1{
+	border: 0.8em solid #CCCCCC;
+}
+
+h2{
+	border: 0.2em double maroon;
+	border-radius : 20px 0px 20px 0px;
+}
+
+p{
+	border: 0.1em solid black;
+}
+
+a{
+	border: 0.2em dashed red;
+}

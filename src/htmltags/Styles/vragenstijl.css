@@ -1,0 +1,25 @@
+body {
+	color: maroon; 
+	background: #eeeeff; 
+}
+
+
+ h2 {
+	color: #660099; 
+	background: maroon;
+}
+
+.vraag{
+}
+
+.antwoord{
+	color: yellow;
+	background: yellow;
+}
+
+.antwoord:hover{
+color: black;
+}
+
+#uitleg{
+}

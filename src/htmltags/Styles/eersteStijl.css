@@ -1,0 +1,29 @@
+/* eerste stijlblad voor mijn website 11 september 2017 */
+body {
+	/*font-family: Verdana, Geneva, Arial, Helvetica, Sans-serif;*/
+	font-size: 100%;
+}
+
+h1{
+	text-transform: uppercase;
+	font-weight: bold;
+	text-align: center;
+	font-size: 250%;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h2{
+	font-variant: small-caps;
+	font-style: italic;
+	text-align: center;
+	word-spacing: -0.2em;
+	letter-spacing: 0.1em;
+	font-size: 100%;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+p{
+	text-indent: 1em;
+	line-height: 130%;
+	text-align: justify;
+}
