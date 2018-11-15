@@ -1,0 +1,42 @@
+body{
+    padding: 15px;
+    width: 1200px;
+}
+
+/*grid background color*/
+.item{
+    background-color: white;
+}
+
+.voetbal{
+    text-align: center;
+}
+
+.article1,article{
+    -moz-columns: 100px 3;
+}
+
+.article2{
+    -moz-columns: 100px 3;
+}
+/*Navbar*/
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
